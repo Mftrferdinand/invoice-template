@@ -1,7 +1,7 @@
-# Invoice Generator — P2P Crypto Market
+# Invoice Generator Template
 
-Single-file Python script that generates clean, professional HTML invoices.  
-Designed for P2P crypto traders — edit the `DATA` dict, run, get an invoice.
+Single-file Python script that generates clean, professional HTML invoices.
+Designed for P2P or Other — edit the DATA dict, run, get an invoice.
 
 ## Features
 
